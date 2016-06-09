@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Documents\PriscillaR\Roll a Ball\Assets\Scripts\CameraController.cs">
+    <Files>
+      <File FileName="..\..\..\Documents\PriscillaR\Roll a Ball\Assets\Scripts\PlayerController.cs" Line="26" Column="3" />
+      <File FileName="..\..\..\Documents\PriscillaR\Roll a Ball\Assets\Scripts\CameraController.cs" Line="5" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
