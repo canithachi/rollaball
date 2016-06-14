@@ -6,5 +6,5 @@
 <b>Deliverables:</b> Completed game are tested on a device, presented to peers, and uploaded to GitHub for teacher review and grade.   
 <br>
 <b>Example screenshots of my completed Roll-A-Ball game.</b><br><br>
-![Alt text](https://github.com/jay-cas/rollaball/blob/master/Ball_game.psd "English Unfilled Version")
+![Alt text](https://github.com/jay-cas/rollaball/blob/master/Ball_game.png "English Unfilled Version")
 <br><br>
